@@ -1,0 +1,5 @@
+approvals:[
+{ 
+match:"all[count=2,self=false]"
+}
+]
